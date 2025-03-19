@@ -1,0 +1,272 @@
+{
+  "uuid": "559c9d26d9a895accf0628b0596e29dc",
+  "path": "Offline/easy_eda_files",
+  "name": "easy_eda_files",
+  "content": "",
+  "created_at": "2025-01-20 06:52:45",
+  "updated_at": "2025-01-21 16:32:20",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "ca968bfce77a6525f8bedc11d7f1d616",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "eabb7af7cbab488f9b97c7f349674f0e": 1,
+        "bb009484ef804a24ac5d18c54b249586": 13,
+        "6be69e8ce7a44e9ebfb04b7ff461d0da": 1,
+        "fcaba4851eda4ca19d4326a668633a30": 1,
+        "f9535b12a4924fd1bf297f3433091e3f": 3,
+        "5cbe824183374fac8e4c1ae848199ce3": 6,
+        "5c1036b53a4146e4841df4ed0a9de8f0": 4
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "K2-3.6×6.1_SMD",
+          4,
+          "KEY-SMD_2P-L6.2-W3.6-LS8.0",
+          "KEY1,KEY2,KEY3,KEY4",
+          {
+            "Manufacturer Part": "K2-1107ST-A4SW-06",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C118141"
+          }
+        ],
+        [
+          "LCD1602",
+          1,
+          "LCD1602",
+          "LCD1",
+          {
+            "Manufacturer Part": "LCM1602K-NSW-BBW",
+            "Manufacturer": "LONTECH(厦门龙特)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C83275"
+          }
+        ],
+        [
+          "LED-0603_R",
+          6,
+          "LED0603_RED",
+          "LED1,LED2,LED3,LED4,LED5,LED6",
+          {
+            "Manufacturer Part": "19-217/R6C-AL1M2VY/3T",
+            "Manufacturer": "EVERLIGHT(台湾亿光)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C72044"
+          }
+        ],
+        [
+          "100",
+          9,
+          "R0603",
+          "R1,R5,R6,R7,R8,R9,R10,R12,R13",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "10k",
+          4,
+          "R0603",
+          "R2,R3,R4,R11",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "R_3386P_EU",
+          1,
+          "RES-ADJ-TH_3386P",
+          "RP1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "PIC16F883-I/ML",
+          1,
+          "QFN-28_L6.0-W6.0-P0.65-BL-EP3.7",
+          "U1",
+          {
+            "Manufacturer Part": "PIC16F883-I/ML",
+            "Manufacturer": "MICROCHIP(美国微芯)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C639857"
+          }
+        ],
+        [
+          "SI2302-NMOSFET",
+          3,
+          "SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR",
+          "U2,U3,U4",
+          {
+            "Manufacturer Part": "si2302-nmosfet",
+            "Manufacturer": "null",
+            "Supplier": "LCSC",
+            "Supplier Part": "C9900002167"
+          }
+        ]
+      ],
+      "updateTime": 1737447520,
+      "createTime": 1737348765,
+      "histories": [],
+      "created_at": "2025-01-20 06:52:45",
+      "updated_at": "2025-01-21 10:18:40"
+    },
+    {
+      "uuid": "9da036131922b95e901fcb8f98e44fc5",
+      "puuid": "559c9d26d9a895accf0628b0596e29dc",
+      "title": "PCB",
+      "filename": "PCB.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "daacbe2eec304950b61eef2efe596556": 4,
+        "4b9e423a569449a2b51949a532ae73f7": 1,
+        "1efb3a885b5b4aecb6d41221a8f4d86b": 6,
+        "398691f1f785460098bbe5ee6590333c": 13,
+        "ce6e0cc9b0684cd986edbf86d7075dfd": 1,
+        "74b5b6d093fe478d904b47303b6af961": 1,
+        "bade90667a6e4731855e9a223387b8a6": 3
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "K2-3.6×6.1_SMD",
+          4,
+          "KEY-SMD_2P-L6.2-W3.6-LS8.0",
+          "ON/OFF,-,+,UNLOCK",
+          {
+            "Manufacturer Part": "K2-1107ST-A4SW-06",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C118141"
+          }
+        ],
+        [
+          "LCD1602",
+          1,
+          "LCD1602",
+          "LCD1",
+          {
+            "Manufacturer Part": "LCM1602K-NSW-BBW",
+            "Manufacturer": "LONTECH(厦门龙特)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C83275"
+          }
+        ],
+        [
+          "LED-0603_R",
+          6,
+          "LED0603_RED",
+          "ON,TEMP,INCR,IGN,PUMP,LOCK",
+          {
+            "Manufacturer Part": "19-217/R6C-AL1M2VY/3T",
+            "Manufacturer": "EVERLIGHT(台湾亿光)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C72044"
+          }
+        ],
+        [
+          "100",
+          9,
+          "R0603",
+          "R1,R5,R6,R7,R8,R9,R10,R12,R13",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "10k",
+          4,
+          "R0603",
+          "R2,R3,R4,R11",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "R_3386P_EU",
+          1,
+          "RES-ADJ-TH_3386P",
+          "RP1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "PIC16F883-I/ML",
+          1,
+          "QFN-28_L6.0-W6.0-P0.65-BL-EP3.7",
+          "PIC16F883",
+          {
+            "Manufacturer Part": "PIC16F883-I/ML",
+            "Manufacturer": "MICROCHIP(美国微芯)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C639857"
+          }
+        ],
+        [
+          "SI2302-NMOSFET",
+          3,
+          "SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR",
+          "U2,U3,U4",
+          {
+            "Manufacturer Part": "si2302-nmosfet",
+            "Manufacturer": "null",
+            "Supplier": "LCSC",
+            "Supplier Part": "C9900002167"
+          }
+        ]
+      ],
+      "updateTime": 1737469940,
+      "createTime": 1737449044,
+      "histories": [],
+      "created_at": "2025-01-21 10:44:04",
+      "updated_at": "2025-01-21 16:32:20"
+    }
+  ],
+  "sort": [],
+  "title": "easy_eda_files",
+  "foldername": "easy_eda_files",
+  "schfilename": "emb.json",
+  "schfilemtime": 1737447520541
+}
