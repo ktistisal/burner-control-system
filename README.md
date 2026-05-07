@@ -3,7 +3,7 @@
 ## Overview
 Embedded system that manages burner operations with real-time temperature regulation, ignition control, and safety monitoring. It includes fault detection and a LOCK MODE for critical failures.
 
-Built using a PIC16F883 microcontroller and simulated in SimulIDE.
+Built in MPLAB X IDE for the PIC16F883 microcontroller and simulated in SimulIDE.
 
 ## Features
 - Automatic temperature regulation
